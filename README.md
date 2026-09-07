@@ -1,6 +1,6 @@
 # Simple Line Editor in C
 
-**Team:** [Your Name] (solo)
+**Team:** Maltesh (solo) SRN - R25EJ066
 **Course:** Portfolio Building — Studio Course, 3rd Semester
 **Assignment:** Coding Competition — Build a Simple Line Editor in C
 
